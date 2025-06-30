@@ -12,7 +12,6 @@ Proyek ini merupakan analisis eksploratif terhadap dataset mobil besar (Large Ca
 ## 📁 Struktur Project
 - `notebook/`: Notebook analisis utama (`.ipynb`)
 - `data/`: Dataset CSV
-- `src/`: (Opsional) Kode preprocessing atau fungsi tambahan
 - `requirements.txt`: Library yang digunakan
 
 ## 🔧 Tools yang Digunakan
